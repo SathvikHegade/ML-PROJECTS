@@ -137,9 +137,6 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
-**Sathvik Hegade**  
-Machine Learning Engineer | Data Science Enthusiast | Python Developer  
 
 ✨ Dive into clustering patterns 🧩, tree pruning effects 🌳, and model accuracy insights ⚡—all in one repository!  
 **💡 HIGHLIGHT:** For more detailed explanations, open the README in each project folder.
