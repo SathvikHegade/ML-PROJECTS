@@ -1,0 +1,892 @@
+,Cabin,Ticket,number,Survived,numerical_data,categorical_data,numerical_cabin,categorical_cabin
+0,unavailable,A/5 21171,5,0,5.0,unavailable,unavailable,unavailable
+1,C85,PC 17599,3,1,3.0,unavailable,85.0,C
+2,unavailable,STON/O2. 3101282,6,1,6.0,unavailable,unavailable,unavailable
+3,C123,113803,3,1,3.0,unavailable,123.0,C
+4,unavailable,373450,A,0,3.5,A,unavailable,unavailable
+5,unavailable,330877,2,0,2.0,unavailable,unavailable,unavailable
+6,E46,17463,2,0,2.0,unavailable,46.0,E
+7,unavailable,349909,5,0,5.0,unavailable,unavailable,unavailable
+8,unavailable,347742,1,1,1.0,unavailable,unavailable,unavailable
+9,unavailable,237736,A,1,3.5,A,unavailable,unavailable
+10,G6,PP 9549,1,1,1.0,unavailable,6.0,G
+11,C103,113783,1,1,1.0,unavailable,103.0,C
+12,unavailable,A/5. 2151,3,0,3.0,unavailable,unavailable,unavailable
+13,unavailable,347082,3,0,3.0,unavailable,unavailable,unavailable
+14,unavailable,350406,5,0,5.0,unavailable,unavailable,unavailable
+15,unavailable,248706,3,1,3.0,unavailable,unavailable,unavailable
+16,unavailable,382652,3,0,3.0,unavailable,unavailable,unavailable
+17,unavailable,244373,2,1,2.0,unavailable,unavailable,unavailable
+18,unavailable,345763,5,0,5.0,unavailable,unavailable,unavailable
+19,unavailable,2649,4,1,4.0,unavailable,unavailable,unavailable
+20,unavailable,239865,1,0,1.0,unavailable,unavailable,unavailable
+21,D56,248698,4,1,4.0,unavailable,56.0,D
+22,unavailable,330923,A,1,3.5,A,unavailable,unavailable
+23,A6,113788,4,1,4.0,unavailable,6.0,A
+24,unavailable,349909,5,0,5.0,unavailable,unavailable,unavailable
+25,unavailable,347077,3,1,3.0,unavailable,unavailable,unavailable
+26,unavailable,2631,6,0,6.0,unavailable,unavailable,unavailable
+27,C23 C25 C27,19950,4,0,4.0,unavailable,23.0,C
+28,unavailable,330959,2,1,2.0,unavailable,unavailable,unavailable
+29,unavailable,349216,6,0,6.0,unavailable,unavailable,unavailable
+30,unavailable,PC 17601,2,0,2.0,unavailable,unavailable,unavailable
+31,B78,PC 17569,A,1,3.5,A,78.0,B
+32,unavailable,335677,6,1,6.0,unavailable,unavailable,unavailable
+33,unavailable,C.A. 24579,2,0,2.0,unavailable,unavailable,unavailable
+34,unavailable,PC 17604,2,0,2.0,unavailable,unavailable,unavailable
+35,unavailable,113789,2,0,2.0,unavailable,unavailable,unavailable
+36,unavailable,2677,4,1,4.0,unavailable,unavailable,unavailable
+37,unavailable,A./5. 2152,6,0,6.0,unavailable,unavailable,unavailable
+38,unavailable,345764,1,0,1.0,unavailable,unavailable,unavailable
+39,unavailable,2651,6,1,6.0,unavailable,unavailable,unavailable
+40,unavailable,7546,1,0,1.0,unavailable,unavailable,unavailable
+41,unavailable,11668,3,0,3.0,unavailable,unavailable,unavailable
+42,unavailable,349253,3,0,3.0,unavailable,unavailable,unavailable
+43,unavailable,SC/Paris 2123,A,1,3.5,A,unavailable,unavailable
+44,unavailable,330958,A,1,3.5,A,unavailable,unavailable
+45,unavailable,S.C./A.4. 23567,1,0,1.0,unavailable,unavailable,unavailable
+46,unavailable,370371,3,0,3.0,unavailable,unavailable,unavailable
+47,unavailable,14311,1,1,1.0,unavailable,unavailable,unavailable
+48,unavailable,2662,6,0,6.0,unavailable,unavailable,unavailable
+49,unavailable,349237,6,0,6.0,unavailable,unavailable,unavailable
+50,unavailable,3101295,1,0,1.0,unavailable,unavailable,unavailable
+51,unavailable,A/4. 39886,A,0,3.5,A,unavailable,unavailable
+52,D33,PC 17572,3,1,3.0,unavailable,33.0,D
+53,unavailable,2926,4,1,4.0,unavailable,unavailable,unavailable
+54,B30,113509,3,0,3.0,unavailable,30.0,B
+55,C52,19947,6,1,6.0,unavailable,52.0,C
+56,unavailable,C.A. 31026,4,1,4.0,unavailable,unavailable,unavailable
+57,unavailable,2697,A,0,3.5,A,unavailable,unavailable
+58,unavailable,C.A. 34651,5,1,5.0,unavailable,unavailable,unavailable
+59,unavailable,CA 2144,A,0,3.5,A,unavailable,unavailable
+60,unavailable,2669,6,0,6.0,unavailable,unavailable,unavailable
+61,B28,113572,2,1,2.0,unavailable,28.0,B
+62,C83,36973,6,0,6.0,unavailable,83.0,C
+63,unavailable,347088,1,0,1.0,unavailable,unavailable,unavailable
+64,unavailable,PC 17605,1,0,1.0,unavailable,unavailable,unavailable
+65,unavailable,2661,2,1,2.0,unavailable,unavailable,unavailable
+66,F33,C.A. 29395,A,1,3.5,A,33.0,F
+67,unavailable,S.P. 3464,A,0,3.5,A,unavailable,unavailable
+68,unavailable,3101281,4,1,4.0,unavailable,unavailable,unavailable
+69,unavailable,315151,A,0,3.5,A,unavailable,unavailable
+70,unavailable,C.A. 33111,1,0,1.0,unavailable,unavailable,unavailable
+71,unavailable,CA 2144,6,0,6.0,unavailable,unavailable,unavailable
+72,unavailable,S.O.C. 14879,3,0,3.0,unavailable,unavailable,unavailable
+73,unavailable,2680,1,0,1.0,unavailable,unavailable,unavailable
+74,unavailable,1601,6,1,6.0,unavailable,unavailable,unavailable
+75,F G73,348123,1,0,1.0,unavailable,73.0,F
+76,unavailable,349208,A,0,3.5,A,unavailable,unavailable
+77,unavailable,374746,3,0,3.0,unavailable,unavailable,unavailable
+78,unavailable,248738,6,1,6.0,unavailable,unavailable,unavailable
+79,unavailable,364516,A,1,3.5,A,unavailable,unavailable
+80,unavailable,345767,6,0,6.0,unavailable,unavailable,unavailable
+81,unavailable,345779,6,1,6.0,unavailable,unavailable,unavailable
+82,unavailable,330932,4,1,4.0,unavailable,unavailable,unavailable
+83,unavailable,113059,6,0,6.0,unavailable,unavailable,unavailable
+84,unavailable,SO/C 14885,6,1,6.0,unavailable,unavailable,unavailable
+85,unavailable,3101278,5,1,5.0,unavailable,unavailable,unavailable
+86,unavailable,W./C. 6608,1,0,1.0,unavailable,unavailable,unavailable
+87,unavailable,SOTON/OQ 392086,4,0,4.0,unavailable,unavailable,unavailable
+88,C23 C25 C27,19950,3,1,3.0,unavailable,23.0,C
+89,unavailable,343275,6,0,6.0,unavailable,unavailable,unavailable
+90,unavailable,343276,4,0,4.0,unavailable,unavailable,unavailable
+91,unavailable,347466,3,0,3.0,unavailable,unavailable,unavailable
+92,E31,W.E.P. 5734,6,0,6.0,unavailable,31.0,E
+93,unavailable,C.A. 2315,A,0,3.5,A,unavailable,unavailable
+94,unavailable,364500,1,0,1.0,unavailable,unavailable,unavailable
+95,unavailable,374910,6,0,6.0,unavailable,unavailable,unavailable
+96,A5,PC 17754,A,0,3.5,A,5.0,A
+97,D10 D12,PC 17759,3,1,3.0,unavailable,10.0,D
+98,unavailable,231919,6,1,6.0,unavailable,unavailable,unavailable
+99,unavailable,244367,2,0,2.0,unavailable,unavailable,unavailable
+100,unavailable,349245,5,0,5.0,unavailable,unavailable,unavailable
+101,unavailable,349215,3,0,3.0,unavailable,unavailable,unavailable
+102,D26,35281,4,0,4.0,unavailable,26.0,D
+103,unavailable,7540,4,0,4.0,unavailable,unavailable,unavailable
+104,unavailable,3101276,4,0,4.0,unavailable,unavailable,unavailable
+105,unavailable,349207,A,0,3.5,A,unavailable,unavailable
+106,unavailable,343120,3,1,3.0,unavailable,unavailable,unavailable
+107,unavailable,312991,A,1,3.5,A,unavailable,unavailable
+108,unavailable,349249,4,0,4.0,unavailable,unavailable,unavailable
+109,unavailable,371110,4,1,4.0,unavailable,unavailable,unavailable
+110,C110,110465,5,0,5.0,unavailable,110.0,C
+111,unavailable,2665,6,0,6.0,unavailable,unavailable,unavailable
+112,unavailable,324669,6,0,6.0,unavailable,unavailable,unavailable
+113,unavailable,4136,3,0,3.0,unavailable,unavailable,unavailable
+114,unavailable,2627,3,0,3.0,unavailable,unavailable,unavailable
+115,unavailable,STON/O 2. 3101294,1,0,1.0,unavailable,unavailable,unavailable
+116,unavailable,370369,A,0,3.5,A,unavailable,unavailable
+117,unavailable,11668,4,0,4.0,unavailable,unavailable,unavailable
+118,B58 B60,PC 17558,3,0,3.0,unavailable,58.0,B
+119,unavailable,347082,1,0,1.0,unavailable,unavailable,unavailable
+120,unavailable,S.O.C. 14879,A,0,3.5,A,unavailable,unavailable
+121,unavailable,A4. 54510,6,0,6.0,unavailable,unavailable,unavailable
+122,unavailable,237736,A,0,3.5,A,unavailable,unavailable
+123,E101,27267,3,1,3.0,unavailable,101.0,E
+124,D26,35281,6,0,6.0,unavailable,26.0,D
+125,unavailable,2651,4,1,4.0,unavailable,unavailable,unavailable
+126,unavailable,370372,1,0,1.0,unavailable,unavailable,unavailable
+127,unavailable,C 17369,4,1,4.0,unavailable,unavailable,unavailable
+128,F E69,2668,6,1,6.0,unavailable,69.0,F
+129,unavailable,347061,A,0,3.5,A,unavailable,unavailable
+130,unavailable,349241,5,0,5.0,unavailable,unavailable,unavailable
+131,unavailable,SOTON/O.Q. 3101307,2,0,2.0,unavailable,unavailable,unavailable
+132,unavailable,A/5. 3337,2,0,2.0,unavailable,unavailable,unavailable
+133,unavailable,228414,5,1,5.0,unavailable,unavailable,unavailable
+134,unavailable,C.A. 29178,A,0,3.5,A,unavailable,unavailable
+135,unavailable,SC/PARIS 2133,1,0,1.0,unavailable,unavailable,unavailable
+136,D47,11752,5,1,5.0,unavailable,47.0,D
+137,C123,113803,6,0,6.0,unavailable,123.0,C
+138,unavailable,7534,5,0,5.0,unavailable,unavailable,unavailable
+139,B86,PC 17593,2,0,2.0,unavailable,86.0,B
+140,unavailable,2678,2,0,2.0,unavailable,unavailable,unavailable
+141,unavailable,347081,1,1,1.0,unavailable,unavailable,unavailable
+142,unavailable,STON/O2. 3101279,5,1,5.0,unavailable,unavailable,unavailable
+143,unavailable,365222,6,0,6.0,unavailable,unavailable,unavailable
+144,unavailable,231945,1,0,1.0,unavailable,unavailable,unavailable
+145,unavailable,C.A. 33112,A,0,3.5,A,unavailable,unavailable
+146,unavailable,350043,3,1,3.0,unavailable,unavailable,unavailable
+147,unavailable,W./C. 6608,5,0,5.0,unavailable,unavailable,unavailable
+148,F2,230080,1,0,1.0,unavailable,2.0,F
+149,unavailable,244310,2,0,2.0,unavailable,unavailable,unavailable
+150,unavailable,S.O.P. 1166,6,0,6.0,unavailable,unavailable,unavailable
+151,C2,113776,A,1,3.5,A,2.0,C
+152,unavailable,A.5. 11206,1,0,1.0,unavailable,unavailable,unavailable
+153,unavailable,A/5. 851,4,0,4.0,unavailable,unavailable,unavailable
+154,unavailable,Fa 265302,A,0,3.5,A,unavailable,unavailable
+155,unavailable,PC 17597,1,0,1.0,unavailable,unavailable,unavailable
+156,unavailable,35851,1,1,1.0,unavailable,unavailable,unavailable
+157,unavailable,SOTON/OQ 392090,1,0,1.0,unavailable,unavailable,unavailable
+158,unavailable,315037,6,0,6.0,unavailable,unavailable,unavailable
+159,unavailable,CA. 2343,3,0,3.0,unavailable,unavailable,unavailable
+160,unavailable,371362,3,0,3.0,unavailable,unavailable,unavailable
+161,unavailable,C.A. 33595,A,1,3.5,A,unavailable,unavailable
+162,unavailable,347068,A,0,3.5,A,unavailable,unavailable
+163,unavailable,315093,6,0,6.0,unavailable,unavailable,unavailable
+164,unavailable,3101295,4,0,4.0,unavailable,unavailable,unavailable
+165,unavailable,363291,2,1,2.0,unavailable,unavailable,unavailable
+166,E33,113505,A,1,3.5,A,33.0,E
+167,unavailable,347088,4,0,4.0,unavailable,unavailable,unavailable
+168,unavailable,PC 17318,3,0,3.0,unavailable,unavailable,unavailable
+169,unavailable,1601,A,0,3.5,A,unavailable,unavailable
+170,B19,111240,6,0,6.0,unavailable,19.0,B
+171,unavailable,382652,1,0,1.0,unavailable,unavailable,unavailable
+172,unavailable,347742,1,1,1.0,unavailable,unavailable,unavailable
+173,unavailable,STON/O 2. 3101280,A,0,3.5,A,unavailable,unavailable
+174,A7,17764,1,0,1.0,unavailable,7.0,A
+175,unavailable,350404,A,0,3.5,A,unavailable,unavailable
+176,unavailable,4133,4,0,4.0,unavailable,unavailable,unavailable
+177,C49,PC 17595,6,0,6.0,unavailable,49.0,C
+178,unavailable,250653,6,0,6.0,unavailable,unavailable,unavailable
+179,unavailable,LINE,1,0,1.0,unavailable,unavailable,unavailable
+180,unavailable,CA. 2343,5,0,5.0,unavailable,unavailable,unavailable
+181,unavailable,SC/PARIS 2131,6,0,6.0,unavailable,unavailable,unavailable
+182,unavailable,347077,5,0,5.0,unavailable,unavailable,unavailable
+183,F4,230136,5,1,5.0,unavailable,4.0,F
+184,unavailable,315153,3,1,3.0,unavailable,unavailable,unavailable
+185,A32,113767,3,0,3.0,unavailable,32.0,A
+186,unavailable,370365,6,1,6.0,unavailable,unavailable,unavailable
+187,unavailable,111428,2,1,2.0,unavailable,unavailable,unavailable
+188,unavailable,364849,3,0,3.0,unavailable,unavailable,unavailable
+189,unavailable,349247,6,0,6.0,unavailable,unavailable,unavailable
+190,unavailable,234604,A,1,3.5,A,unavailable,unavailable
+191,unavailable,28424,3,0,3.0,unavailable,unavailable,unavailable
+192,unavailable,350046,A,1,3.5,A,unavailable,unavailable
+193,F2,230080,6,1,6.0,unavailable,2.0,F
+194,B4,PC 17610,6,1,6.0,unavailable,4.0,B
+195,B80,PC 17569,3,1,3.0,unavailable,80.0,B
+196,unavailable,368703,2,0,2.0,unavailable,unavailable,unavailable
+197,unavailable,4579,6,0,6.0,unavailable,unavailable,unavailable
+198,unavailable,370370,5,1,5.0,unavailable,unavailable,unavailable
+199,unavailable,248747,1,0,1.0,unavailable,unavailable,unavailable
+200,unavailable,345770,2,0,2.0,unavailable,unavailable,unavailable
+201,unavailable,CA. 2343,2,0,2.0,unavailable,unavailable,unavailable
+202,unavailable,3101264,2,0,2.0,unavailable,unavailable,unavailable
+203,unavailable,2628,A,0,3.5,A,unavailable,unavailable
+204,unavailable,A/5 3540,6,1,6.0,unavailable,unavailable,unavailable
+205,G6,347054,A,0,3.5,A,6.0,G
+206,unavailable,3101278,3,0,3.0,unavailable,unavailable,unavailable
+207,unavailable,2699,5,1,5.0,unavailable,unavailable,unavailable
+208,unavailable,367231,6,1,6.0,unavailable,unavailable,unavailable
+209,A31,112277,6,1,6.0,unavailable,31.0,A
+210,unavailable,SOTON/O.Q. 3101311,A,0,3.5,A,unavailable,unavailable
+211,unavailable,F.C.C. 13528,3,1,3.0,unavailable,unavailable,unavailable
+212,unavailable,A/5 21174,A,0,3.5,A,unavailable,unavailable
+213,unavailable,250646,1,0,1.0,unavailable,unavailable,unavailable
+214,unavailable,367229,2,0,2.0,unavailable,unavailable,unavailable
+215,D36,35273,A,1,3.5,A,36.0,D
+216,unavailable,STON/O2. 3101283,4,1,4.0,unavailable,unavailable,unavailable
+217,unavailable,243847,A,0,3.5,A,unavailable,unavailable
+218,D15,11813,A,1,3.5,A,15.0,D
+219,unavailable,W/C 14208,4,0,4.0,unavailable,unavailable,unavailable
+220,unavailable,SOTON/OQ 392089,5,1,5.0,unavailable,unavailable,unavailable
+221,unavailable,220367,4,0,4.0,unavailable,unavailable,unavailable
+222,unavailable,21440,A,0,3.5,A,unavailable,unavailable
+223,unavailable,349234,A,0,3.5,A,unavailable,unavailable
+224,C93,19943,1,1,1.0,unavailable,93.0,C
+225,unavailable,PP 4348,6,0,6.0,unavailable,unavailable,unavailable
+226,unavailable,SW/PP 751,3,1,3.0,unavailable,unavailable,unavailable
+227,unavailable,A/5 21173,6,0,6.0,unavailable,unavailable,unavailable
+228,unavailable,236171,5,0,5.0,unavailable,unavailable,unavailable
+229,unavailable,4133,3,0,3.0,unavailable,unavailable,unavailable
+230,C83,36973,3,1,3.0,unavailable,83.0,C
+231,unavailable,347067,2,0,2.0,unavailable,unavailable,unavailable
+232,unavailable,237442,6,0,6.0,unavailable,unavailable,unavailable
+233,unavailable,347077,4,1,4.0,unavailable,unavailable,unavailable
+234,unavailable,C.A. 29566,6,0,6.0,unavailable,unavailable,unavailable
+235,unavailable,W./C. 6609,4,0,4.0,unavailable,unavailable,unavailable
+236,unavailable,26707,3,0,3.0,unavailable,unavailable,unavailable
+237,unavailable,C.A. 31921,1,1,1.0,unavailable,unavailable,unavailable
+238,unavailable,28665,A,0,3.5,A,unavailable,unavailable
+239,unavailable,SCO/W 1585,A,0,3.5,A,unavailable,unavailable
+240,unavailable,2665,1,0,1.0,unavailable,unavailable,unavailable
+241,unavailable,367230,1,1,1.0,unavailable,unavailable,unavailable
+242,unavailable,W./C. 14263,5,0,5.0,unavailable,unavailable,unavailable
+243,unavailable,STON/O 2. 3101275,A,0,3.5,A,unavailable,unavailable
+244,unavailable,2694,1,0,1.0,unavailable,unavailable,unavailable
+245,C78,19928,5,0,5.0,unavailable,78.0,C
+246,unavailable,347071,A,0,3.5,A,unavailable,unavailable
+247,unavailable,250649,2,1,2.0,unavailable,unavailable,unavailable
+248,D35,11751,4,1,4.0,unavailable,35.0,D
+249,unavailable,244252,5,0,5.0,unavailable,unavailable,unavailable
+250,unavailable,362316,4,0,4.0,unavailable,unavailable,unavailable
+251,G6,347054,6,0,6.0,unavailable,6.0,G
+252,C87,113514,1,0,1.0,unavailable,87.0,C
+253,unavailable,A/5. 3336,3,0,3.0,unavailable,unavailable,unavailable
+254,unavailable,370129,A,0,3.5,A,unavailable,unavailable
+255,unavailable,2650,3,1,3.0,unavailable,unavailable,unavailable
+256,unavailable,PC 17585,6,1,6.0,unavailable,unavailable,unavailable
+257,B77,110152,4,1,4.0,unavailable,77.0,B
+258,unavailable,PC 17755,5,1,5.0,unavailable,unavailable,unavailable
+259,unavailable,230433,4,1,4.0,unavailable,unavailable,unavailable
+260,unavailable,384461,A,0,3.5,A,unavailable,unavailable
+261,unavailable,347077,6,1,6.0,unavailable,unavailable,unavailable
+262,E67,110413,4,0,4.0,unavailable,67.0,E
+263,B94,112059,6,0,6.0,unavailable,94.0,B
+264,unavailable,382649,2,0,2.0,unavailable,unavailable,unavailable
+265,unavailable,C.A. 17248,3,0,3.0,unavailable,unavailable,unavailable
+266,unavailable,3101295,6,0,6.0,unavailable,unavailable,unavailable
+267,unavailable,347083,4,1,4.0,unavailable,unavailable,unavailable
+268,C125,PC 17582,3,1,3.0,unavailable,125.0,C
+269,C99,PC 17760,3,1,3.0,unavailable,99.0,C
+270,unavailable,113798,5,0,5.0,unavailable,unavailable,unavailable
+271,unavailable,LINE,3,1,3.0,unavailable,unavailable,unavailable
+272,unavailable,250644,1,1,1.0,unavailable,unavailable,unavailable
+273,C118,PC 17596,A,0,3.5,A,118.0,C
+274,unavailable,370375,2,1,2.0,unavailable,unavailable,unavailable
+275,D7,13502,2,1,2.0,unavailable,7.0,D
+276,unavailable,347073,1,0,1.0,unavailable,unavailable,unavailable
+277,unavailable,239853,4,0,4.0,unavailable,unavailable,unavailable
+278,unavailable,382652,2,0,2.0,unavailable,unavailable,unavailable
+279,unavailable,C.A. 2673,2,1,2.0,unavailable,unavailable,unavailable
+280,unavailable,336439,4,0,4.0,unavailable,unavailable,unavailable
+281,unavailable,347464,A,0,3.5,A,unavailable,unavailable
+282,unavailable,345778,2,0,2.0,unavailable,unavailable,unavailable
+283,unavailable,A/5. 10482,5,1,5.0,unavailable,unavailable,unavailable
+284,A19,113056,5,0,5.0,unavailable,19.0,A
+285,unavailable,349239,4,0,4.0,unavailable,unavailable,unavailable
+286,unavailable,345774,4,1,4.0,unavailable,unavailable,unavailable
+287,unavailable,349206,5,0,5.0,unavailable,unavailable,unavailable
+288,unavailable,237798,A,1,3.5,A,unavailable,unavailable
+289,unavailable,370373,2,1,2.0,unavailable,unavailable,unavailable
+290,unavailable,19877,3,1,3.0,unavailable,unavailable,unavailable
+291,B49,11967,4,1,4.0,unavailable,49.0,B
+292,D,SC/Paris 2163,4,0,4.0,unavailable,unavailable,D
+293,unavailable,349236,6,0,6.0,unavailable,unavailable,unavailable
+294,unavailable,349233,5,0,5.0,unavailable,unavailable,unavailable
+295,unavailable,PC 17612,A,0,3.5,A,unavailable,unavailable
+296,unavailable,2693,4,0,4.0,unavailable,unavailable,unavailable
+297,C22 C26,113781,5,0,5.0,unavailable,22.0,C
+298,C106,19988,3,1,3.0,unavailable,106.0,C
+299,B58 B60,PC 17558,1,1,1.0,unavailable,58.0,B
+300,unavailable,9234,A,1,3.5,A,unavailable,unavailable
+301,unavailable,367226,1,1,1.0,unavailable,unavailable,unavailable
+302,unavailable,LINE,2,0,2.0,unavailable,unavailable,unavailable
+303,E101,226593,5,1,5.0,unavailable,101.0,E
+304,unavailable,A/5 2466,3,0,3.0,unavailable,unavailable,unavailable
+305,C22 C26,113781,6,1,6.0,unavailable,22.0,C
+306,unavailable,17421,4,1,4.0,unavailable,unavailable,unavailable
+307,C65,PC 17758,2,1,2.0,unavailable,65.0,C
+308,unavailable,P/PP 3381,3,0,3.0,unavailable,unavailable,unavailable
+309,E36,PC 17485,3,1,3.0,unavailable,36.0,E
+310,C54,11767,2,1,2.0,unavailable,54.0,C
+311,B57 B59 B63 B66,PC 17608,1,1,1.0,unavailable,57.0,B
+312,unavailable,250651,5,0,5.0,unavailable,unavailable,unavailable
+313,unavailable,349243,2,0,2.0,unavailable,unavailable,unavailable
+314,unavailable,F.C.C. 13529,1,0,1.0,unavailable,unavailable,unavailable
+315,unavailable,347470,5,1,5.0,unavailable,unavailable,unavailable
+316,unavailable,244367,6,1,6.0,unavailable,unavailable,unavailable
+317,unavailable,29011,4,0,4.0,unavailable,unavailable,unavailable
+318,C7,36928,A,1,3.5,A,7.0,C
+319,E34,16966,1,1,1.0,unavailable,34.0,E
+320,unavailable,A/5 21172,2,0,2.0,unavailable,unavailable,unavailable
+321,unavailable,349219,6,0,6.0,unavailable,unavailable,unavailable
+322,unavailable,234818,1,1,1.0,unavailable,unavailable,unavailable
+323,unavailable,248738,5,1,5.0,unavailable,unavailable,unavailable
+324,unavailable,CA. 2343,1,0,1.0,unavailable,unavailable,unavailable
+325,C32,PC 17760,6,1,6.0,unavailable,32.0,C
+326,unavailable,345364,4,0,4.0,unavailable,unavailable,unavailable
+327,D,28551,5,1,5.0,unavailable,unavailable,D
+328,unavailable,363291,2,1,2.0,unavailable,unavailable,unavailable
+329,B18,111361,5,1,5.0,unavailable,18.0,B
+330,unavailable,367226,5,1,5.0,unavailable,unavailable,unavailable
+331,C124,113043,6,0,6.0,unavailable,124.0,C
+332,C91,PC 17582,1,0,1.0,unavailable,91.0,C
+333,unavailable,345764,1,0,1.0,unavailable,unavailable,unavailable
+334,unavailable,PC 17611,4,1,4.0,unavailable,unavailable,unavailable
+335,unavailable,349225,6,0,6.0,unavailable,unavailable,unavailable
+336,C2,113776,A,0,3.5,A,2.0,C
+337,E40,16966,1,1,1.0,unavailable,40.0,E
+338,unavailable,7598,3,1,3.0,unavailable,unavailable,unavailable
+339,T,113784,4,0,4.0,unavailable,unavailable,T
+340,F2,230080,A,1,3.5,A,2.0,F
+341,C23 C25 C27,19950,5,1,5.0,unavailable,23.0,C
+342,unavailable,248740,A,0,3.5,A,unavailable,unavailable
+343,unavailable,244361,2,0,2.0,unavailable,unavailable,unavailable
+344,unavailable,229236,2,0,2.0,unavailable,unavailable,unavailable
+345,F33,248733,A,1,3.5,A,33.0,F
+346,unavailable,31418,6,1,6.0,unavailable,unavailable,unavailable
+347,unavailable,386525,2,1,2.0,unavailable,unavailable,unavailable
+348,unavailable,C.A. 37671,2,1,2.0,unavailable,unavailable,unavailable
+349,unavailable,315088,A,0,3.5,A,unavailable,unavailable
+350,unavailable,7267,3,0,3.0,unavailable,unavailable,unavailable
+351,C128,113510,4,0,4.0,unavailable,128.0,C
+352,unavailable,2695,5,0,5.0,unavailable,unavailable,unavailable
+353,unavailable,349237,5,0,5.0,unavailable,unavailable,unavailable
+354,unavailable,2647,5,0,5.0,unavailable,unavailable,unavailable
+355,unavailable,345783,4,0,4.0,unavailable,unavailable,unavailable
+356,E33,113505,1,1,1.0,unavailable,33.0,E
+357,unavailable,237671,6,0,6.0,unavailable,unavailable,unavailable
+358,unavailable,330931,2,1,2.0,unavailable,unavailable,unavailable
+359,unavailable,330980,6,1,6.0,unavailable,unavailable,unavailable
+360,unavailable,347088,3,0,3.0,unavailable,unavailable,unavailable
+361,unavailable,SC/PARIS 2167,A,0,3.5,A,unavailable,unavailable
+362,unavailable,2691,6,0,6.0,unavailable,unavailable,unavailable
+363,unavailable,SOTON/O.Q. 3101310,3,0,3.0,unavailable,unavailable,unavailable
+364,unavailable,370365,2,0,2.0,unavailable,unavailable,unavailable
+365,unavailable,C 7076,3,0,3.0,unavailable,unavailable,unavailable
+366,D37,110813,5,1,5.0,unavailable,37.0,D
+367,unavailable,2626,3,1,3.0,unavailable,unavailable,unavailable
+368,unavailable,14313,3,1,3.0,unavailable,unavailable,unavailable
+369,B35,PC 17477,2,1,2.0,unavailable,35.0,B
+370,E50,11765,5,1,5.0,unavailable,50.0,E
+371,unavailable,3101267,2,0,2.0,unavailable,unavailable,unavailable
+372,unavailable,323951,3,0,3.0,unavailable,unavailable,unavailable
+373,unavailable,PC 17760,A,0,3.5,A,unavailable,unavailable
+374,unavailable,349909,1,0,1.0,unavailable,unavailable,unavailable
+375,unavailable,PC 17604,1,1,1.0,unavailable,unavailable,unavailable
+376,unavailable,C 7077,2,1,2.0,unavailable,unavailable,unavailable
+377,C82,113503,2,0,2.0,unavailable,82.0,C
+378,unavailable,2648,2,0,2.0,unavailable,unavailable,unavailable
+379,unavailable,347069,5,0,5.0,unavailable,unavailable,unavailable
+380,unavailable,PC 17757,5,1,5.0,unavailable,unavailable,unavailable
+381,unavailable,2653,3,1,3.0,unavailable,unavailable,unavailable
+382,unavailable,STON/O 2. 3101293,1,0,1.0,unavailable,unavailable,unavailable
+383,unavailable,113789,4,1,4.0,unavailable,unavailable,unavailable
+384,unavailable,349227,3,0,3.0,unavailable,unavailable,unavailable
+385,unavailable,S.O.C. 14879,4,0,4.0,unavailable,unavailable,unavailable
+386,unavailable,CA 2144,6,0,6.0,unavailable,unavailable,unavailable
+387,unavailable,27849,4,1,4.0,unavailable,unavailable,unavailable
+388,unavailable,367655,6,0,6.0,unavailable,unavailable,unavailable
+389,unavailable,SC 1748,5,1,5.0,unavailable,unavailable,unavailable
+390,B96 B98,113760,4,1,4.0,unavailable,96.0,B
+391,unavailable,350034,6,1,6.0,unavailable,unavailable,unavailable
+392,unavailable,3101277,1,0,1.0,unavailable,unavailable,unavailable
+393,D36,35273,1,1,1.0,unavailable,36.0,D
+394,G6,PP 9549,6,1,6.0,unavailable,6.0,G
+395,unavailable,350052,3,0,3.0,unavailable,unavailable,unavailable
+396,unavailable,350407,2,0,2.0,unavailable,unavailable,unavailable
+397,unavailable,28403,2,0,2.0,unavailable,unavailable,unavailable
+398,unavailable,244278,5,0,5.0,unavailable,unavailable,unavailable
+399,unavailable,240929,1,1,1.0,unavailable,unavailable,unavailable
+400,unavailable,STON/O 2. 3101289,3,1,3.0,unavailable,unavailable,unavailable
+401,unavailable,341826,2,0,2.0,unavailable,unavailable,unavailable
+402,unavailable,4137,3,0,3.0,unavailable,unavailable,unavailable
+403,unavailable,STON/O2. 3101279,3,0,3.0,unavailable,unavailable,unavailable
+404,unavailable,315096,A,0,3.5,A,unavailable,unavailable
+405,unavailable,28664,2,0,2.0,unavailable,unavailable,unavailable
+406,unavailable,347064,4,0,4.0,unavailable,unavailable,unavailable
+407,unavailable,29106,A,1,3.5,A,unavailable,unavailable
+408,unavailable,312992,A,0,3.5,A,unavailable,unavailable
+409,unavailable,4133,5,0,5.0,unavailable,unavailable,unavailable
+410,unavailable,349222,A,0,3.5,A,unavailable,unavailable
+411,unavailable,394140,1,0,1.0,unavailable,unavailable,unavailable
+412,C78,19928,2,1,2.0,unavailable,78.0,C
+413,unavailable,239853,5,0,5.0,unavailable,unavailable,unavailable
+414,unavailable,STON/O 2. 3101269,6,1,6.0,unavailable,unavailable,unavailable
+415,unavailable,343095,A,0,3.5,A,unavailable,unavailable
+416,unavailable,28220,6,1,6.0,unavailable,unavailable,unavailable
+417,unavailable,250652,4,1,4.0,unavailable,unavailable,unavailable
+418,unavailable,28228,1,0,1.0,unavailable,unavailable,unavailable
+419,unavailable,345773,3,0,3.0,unavailable,unavailable,unavailable
+420,unavailable,349254,4,0,4.0,unavailable,unavailable,unavailable
+421,unavailable,A/5. 13032,3,0,3.0,unavailable,unavailable,unavailable
+422,unavailable,315082,2,0,2.0,unavailable,unavailable,unavailable
+423,unavailable,347080,2,0,2.0,unavailable,unavailable,unavailable
+424,unavailable,370129,4,0,4.0,unavailable,unavailable,unavailable
+425,unavailable,A/4. 34244,2,0,2.0,unavailable,unavailable,unavailable
+426,unavailable,2003,1,1,1.0,unavailable,unavailable,unavailable
+427,unavailable,250655,2,1,2.0,unavailable,unavailable,unavailable
+428,unavailable,364851,2,0,2.0,unavailable,unavailable,unavailable
+429,E10,SOTON/O.Q. 392078,6,1,6.0,unavailable,10.0,E
+430,C52,110564,A,1,3.5,A,52.0,C
+431,unavailable,376564,4,1,4.0,unavailable,unavailable,unavailable
+432,unavailable,SC/AH 3085,4,1,4.0,unavailable,unavailable,unavailable
+433,unavailable,STON/O 2. 3101274,6,0,6.0,unavailable,unavailable,unavailable
+434,E44,13507,3,0,3.0,unavailable,44.0,E
+435,B96 B98,113760,1,1,1.0,unavailable,96.0,B
+436,unavailable,W./C. 6608,2,0,2.0,unavailable,unavailable,unavailable
+437,unavailable,29106,6,1,6.0,unavailable,unavailable,unavailable
+438,C23 C25 C27,19950,2,0,2.0,unavailable,23.0,C
+439,unavailable,C.A. 18723,1,0,1.0,unavailable,unavailable,unavailable
+440,unavailable,F.C.C. 13529,4,1,4.0,unavailable,unavailable,unavailable
+441,unavailable,345769,5,0,5.0,unavailable,unavailable,unavailable
+442,unavailable,347076,6,0,6.0,unavailable,unavailable,unavailable
+443,unavailable,230434,2,1,2.0,unavailable,unavailable,unavailable
+444,unavailable,65306,1,1,1.0,unavailable,unavailable,unavailable
+445,A34,33638,3,1,3.0,unavailable,34.0,A
+446,unavailable,250644,5,1,5.0,unavailable,unavailable,unavailable
+447,unavailable,113794,2,1,2.0,unavailable,unavailable,unavailable
+448,unavailable,2666,1,1,1.0,unavailable,unavailable,unavailable
+449,C104,113786,4,1,4.0,unavailable,104.0,C
+450,unavailable,C.A. 34651,A,0,3.5,A,unavailable,unavailable
+451,unavailable,65303,4,0,4.0,unavailable,unavailable,unavailable
+452,C111,113051,2,0,2.0,unavailable,111.0,C
+453,C92,17453,5,1,5.0,unavailable,92.0,C
+454,unavailable,A/5 2817,6,0,6.0,unavailable,unavailable,unavailable
+455,unavailable,349240,5,1,5.0,unavailable,unavailable,unavailable
+456,E38,13509,6,0,6.0,unavailable,38.0,E
+457,D21,17464,1,1,1.0,unavailable,21.0,D
+458,unavailable,F.C.C. 13531,A,1,3.5,A,unavailable,unavailable
+459,unavailable,371060,3,0,3.0,unavailable,unavailable,unavailable
+460,E12,19952,A,1,3.5,A,12.0,E
+461,unavailable,364506,2,0,2.0,unavailable,unavailable,unavailable
+462,E63,111320,4,0,4.0,unavailable,63.0,E
+463,unavailable,234360,5,0,5.0,unavailable,unavailable,unavailable
+464,unavailable,A/S 2816,6,0,6.0,unavailable,unavailable,unavailable
+465,unavailable,SOTON/O.Q. 3101306,A,0,3.5,A,unavailable,unavailable
+466,unavailable,239853,6,0,6.0,unavailable,unavailable,unavailable
+467,unavailable,113792,1,0,1.0,unavailable,unavailable,unavailable
+468,unavailable,36209,2,0,2.0,unavailable,unavailable,unavailable
+469,unavailable,2666,4,1,4.0,unavailable,unavailable,unavailable
+470,unavailable,323592,A,0,3.5,A,unavailable,unavailable
+471,unavailable,315089,4,0,4.0,unavailable,unavailable,unavailable
+472,unavailable,C.A. 34651,6,1,6.0,unavailable,unavailable,unavailable
+473,D,SC/AH Basle 541,2,1,2.0,unavailable,unavailable,D
+474,unavailable,7553,6,0,6.0,unavailable,unavailable,unavailable
+475,A14,110465,3,0,3.0,unavailable,14.0,A
+476,unavailable,31027,3,0,3.0,unavailable,unavailable,unavailable
+477,unavailable,3460,4,0,4.0,unavailable,unavailable,unavailable
+478,unavailable,350060,3,0,3.0,unavailable,unavailable,unavailable
+479,unavailable,3101298,5,1,5.0,unavailable,unavailable,unavailable
+480,unavailable,CA 2144,5,0,5.0,unavailable,unavailable,unavailable
+481,unavailable,239854,A,0,3.5,A,unavailable,unavailable
+482,unavailable,A/5 3594,6,0,6.0,unavailable,unavailable,unavailable
+483,unavailable,4134,4,1,4.0,unavailable,unavailable,unavailable
+484,B49,11967,A,1,3.5,A,49.0,B
+485,unavailable,4133,A,0,3.5,A,unavailable,unavailable
+486,C93,19943,3,1,3.0,unavailable,93.0,C
+487,B37,11771,2,0,2.0,unavailable,37.0,B
+488,unavailable,A.5. 18509,2,0,2.0,unavailable,unavailable,unavailable
+489,unavailable,C.A. 37671,1,1,1.0,unavailable,unavailable,unavailable
+490,unavailable,65304,2,0,2.0,unavailable,unavailable,unavailable
+491,unavailable,SOTON/OQ 3101317,6,0,6.0,unavailable,unavailable,unavailable
+492,C30,113787,5,0,5.0,unavailable,30.0,C
+493,unavailable,PC 17609,1,0,1.0,unavailable,unavailable,unavailable
+494,unavailable,A/4 45380,2,0,2.0,unavailable,unavailable,unavailable
+495,unavailable,2627,4,0,4.0,unavailable,unavailable,unavailable
+496,D20,36947,A,1,3.5,A,20.0,D
+497,unavailable,C.A. 6212,A,0,3.5,A,unavailable,unavailable
+498,C22 C26,113781,A,0,3.5,A,22.0,C
+499,unavailable,350035,1,0,1.0,unavailable,unavailable,unavailable
+500,unavailable,315086,4,0,4.0,unavailable,unavailable,unavailable
+501,unavailable,364846,5,0,5.0,unavailable,unavailable,unavailable
+502,unavailable,330909,6,0,6.0,unavailable,unavailable,unavailable
+503,unavailable,4135,2,0,2.0,unavailable,unavailable,unavailable
+504,B79,110152,6,1,6.0,unavailable,79.0,B
+505,C65,PC 17758,4,0,4.0,unavailable,65.0,C
+506,unavailable,26360,1,1,1.0,unavailable,unavailable,unavailable
+507,unavailable,111427,A,1,3.5,A,unavailable,unavailable
+508,unavailable,C 4001,5,0,5.0,unavailable,unavailable,unavailable
+509,unavailable,1601,1,1,1.0,unavailable,unavailable,unavailable
+510,unavailable,382651,5,1,5.0,unavailable,unavailable,unavailable
+511,unavailable,SOTON/OQ 3101316,4,0,4.0,unavailable,unavailable,unavailable
+512,E25,PC 17473,2,1,2.0,unavailable,25.0,E
+513,unavailable,PC 17603,2,1,2.0,unavailable,unavailable,unavailable
+514,unavailable,349209,3,0,3.0,unavailable,unavailable,unavailable
+515,D46,36967,3,0,3.0,unavailable,46.0,D
+516,F33,C.A. 34260,1,1,1.0,unavailable,33.0,F
+517,unavailable,371110,4,0,4.0,unavailable,unavailable,unavailable
+518,unavailable,226875,3,1,3.0,unavailable,unavailable,unavailable
+519,unavailable,349242,1,0,1.0,unavailable,unavailable,unavailable
+520,B73,12749,2,1,2.0,unavailable,73.0,B
+521,unavailable,349252,5,0,5.0,unavailable,unavailable,unavailable
+522,unavailable,2624,2,0,2.0,unavailable,unavailable,unavailable
+523,B18,111361,A,1,3.5,A,18.0,B
+524,unavailable,2700,6,0,6.0,unavailable,unavailable,unavailable
+525,unavailable,367232,3,0,3.0,unavailable,unavailable,unavailable
+526,unavailable,W./C. 14258,2,1,2.0,unavailable,unavailable,unavailable
+527,C95,PC 17483,2,0,2.0,unavailable,95.0,C
+528,unavailable,3101296,4,0,4.0,unavailable,unavailable,unavailable
+529,unavailable,29104,A,0,3.5,A,unavailable,unavailable
+530,unavailable,26360,6,1,6.0,unavailable,unavailable,unavailable
+531,unavailable,2641,A,0,3.5,A,unavailable,unavailable
+532,unavailable,2690,5,0,5.0,unavailable,unavailable,unavailable
+533,unavailable,2668,4,1,4.0,unavailable,unavailable,unavailable
+534,unavailable,315084,6,0,6.0,unavailable,unavailable,unavailable
+535,unavailable,F.C.C. 13529,1,1,1.0,unavailable,unavailable,unavailable
+536,B38,113050,5,0,5.0,unavailable,38.0,B
+537,unavailable,PC 17761,1,1,1.0,unavailable,unavailable,unavailable
+538,unavailable,364498,4,0,4.0,unavailable,unavailable,unavailable
+539,B39,13568,3,1,3.0,unavailable,39.0,B
+540,B22,WE/P 5735,2,1,2.0,unavailable,22.0,B
+541,unavailable,347082,4,0,4.0,unavailable,unavailable,unavailable
+542,unavailable,347082,1,0,1.0,unavailable,unavailable,unavailable
+543,unavailable,2908,A,1,3.5,A,unavailable,unavailable
+544,C86,PC 17761,4,0,4.0,unavailable,86.0,C
+545,unavailable,693,6,0,6.0,unavailable,unavailable,unavailable
+546,unavailable,2908,6,1,6.0,unavailable,unavailable,unavailable
+547,unavailable,SC/PARIS 2146,5,1,5.0,unavailable,unavailable,unavailable
+548,unavailable,363291,2,0,2.0,unavailable,unavailable,unavailable
+549,unavailable,C.A. 33112,2,1,2.0,unavailable,unavailable,unavailable
+550,C70,17421,2,1,2.0,unavailable,70.0,C
+551,unavailable,244358,3,0,3.0,unavailable,unavailable,unavailable
+552,unavailable,330979,6,0,6.0,unavailable,unavailable,unavailable
+553,unavailable,2620,1,1,1.0,unavailable,unavailable,unavailable
+554,unavailable,347085,3,1,3.0,unavailable,unavailable,unavailable
+555,unavailable,113807,A,0,3.5,A,unavailable,unavailable
+556,A16,11755,A,1,3.5,A,16.0,A
+557,unavailable,PC 17757,2,0,2.0,unavailable,unavailable,unavailable
+558,E67,110413,1,1,1.0,unavailable,67.0,E
+559,unavailable,345572,5,1,5.0,unavailable,unavailable,unavailable
+560,unavailable,372622,5,0,5.0,unavailable,unavailable,unavailable
+561,unavailable,349251,4,0,4.0,unavailable,unavailable,unavailable
+562,unavailable,218629,5,0,5.0,unavailable,unavailable,unavailable
+563,unavailable,SOTON/OQ 392082,A,0,3.5,A,unavailable,unavailable
+564,unavailable,SOTON/O.Q. 392087,6,0,6.0,unavailable,unavailable,unavailable
+565,unavailable,A/4 48871,3,0,3.0,unavailable,unavailable,unavailable
+566,unavailable,349205,A,0,3.5,A,unavailable,unavailable
+567,unavailable,349909,6,0,6.0,unavailable,unavailable,unavailable
+568,unavailable,2686,4,0,4.0,unavailable,unavailable,unavailable
+569,unavailable,350417,6,1,6.0,unavailable,unavailable,unavailable
+570,unavailable,S.W./PP 752,6,1,6.0,unavailable,unavailable,unavailable
+571,C101,11769,6,1,6.0,unavailable,101.0,C
+572,E25,PC 17474,A,1,3.5,A,25.0,E
+573,unavailable,14312,A,1,3.5,A,unavailable,unavailable
+574,unavailable,A/4. 20589,4,0,4.0,unavailable,unavailable,unavailable
+575,unavailable,358585,1,0,1.0,unavailable,unavailable,unavailable
+576,unavailable,243880,3,1,3.0,unavailable,unavailable,unavailable
+577,E44,13507,5,1,5.0,unavailable,44.0,E
+578,unavailable,2689,5,0,5.0,unavailable,unavailable,unavailable
+579,unavailable,STON/O 2. 3101286,4,1,4.0,unavailable,unavailable,unavailable
+580,unavailable,237789,6,1,6.0,unavailable,unavailable,unavailable
+581,C68,17421,3,1,3.0,unavailable,68.0,C
+582,unavailable,28403,4,0,4.0,unavailable,unavailable,unavailable
+583,A10,13049,3,0,3.0,unavailable,10.0,A
+584,unavailable,3411,A,0,3.5,A,unavailable,unavailable
+585,E68,110413,3,1,3.0,unavailable,68.0,E
+586,unavailable,237565,2,0,2.0,unavailable,unavailable,unavailable
+587,B41,13567,1,1,1.0,unavailable,41.0,B
+588,unavailable,14973,4,0,4.0,unavailable,unavailable,unavailable
+589,unavailable,A./5. 3235,1,0,1.0,unavailable,unavailable,unavailable
+590,unavailable,STON/O 2. 3101273,5,0,5.0,unavailable,unavailable,unavailable
+591,D20,36947,1,1,1.0,unavailable,20.0,D
+592,unavailable,A/5 3902,5,0,5.0,unavailable,unavailable,unavailable
+593,unavailable,364848,1,0,1.0,unavailable,unavailable,unavailable
+594,unavailable,SC/AH 29037,2,0,2.0,unavailable,unavailable,unavailable
+595,unavailable,345773,A,0,3.5,A,unavailable,unavailable
+596,unavailable,248727,4,1,4.0,unavailable,unavailable,unavailable
+597,unavailable,LINE,6,0,6.0,unavailable,unavailable,unavailable
+598,unavailable,2664,2,0,2.0,unavailable,unavailable,unavailable
+599,A20,PC 17485,3,1,3.0,unavailable,20.0,A
+600,unavailable,243847,A,1,3.5,A,unavailable,unavailable
+601,unavailable,349214,4,0,4.0,unavailable,unavailable,unavailable
+602,unavailable,113796,1,0,1.0,unavailable,unavailable,unavailable
+603,unavailable,364511,2,0,2.0,unavailable,unavailable,unavailable
+604,unavailable,111426,4,1,4.0,unavailable,unavailable,unavailable
+605,unavailable,349910,4,0,4.0,unavailable,unavailable,unavailable
+606,unavailable,349246,2,0,2.0,unavailable,unavailable,unavailable
+607,unavailable,113804,A,1,3.5,A,unavailable,unavailable
+608,unavailable,SC/Paris 2123,3,1,3.0,unavailable,unavailable,unavailable
+609,C125,PC 17582,2,1,2.0,unavailable,125.0,C
+610,unavailable,347082,4,0,4.0,unavailable,unavailable,unavailable
+611,unavailable,SOTON/O.Q. 3101305,2,0,2.0,unavailable,unavailable,unavailable
+612,unavailable,367230,A,1,3.5,A,unavailable,unavailable
+613,unavailable,370377,3,0,3.0,unavailable,unavailable,unavailable
+614,unavailable,364512,6,0,6.0,unavailable,unavailable,unavailable
+615,unavailable,220845,A,1,3.5,A,unavailable,unavailable
+616,unavailable,347080,4,0,4.0,unavailable,unavailable,unavailable
+617,unavailable,A/5. 3336,1,0,1.0,unavailable,unavailable,unavailable
+618,F4,230136,4,1,4.0,unavailable,4.0,F
+619,unavailable,31028,1,0,1.0,unavailable,unavailable,unavailable
+620,unavailable,2659,A,0,3.5,A,unavailable,unavailable
+621,D19,11753,2,1,2.0,unavailable,19.0,D
+622,unavailable,2653,6,1,6.0,unavailable,unavailable,unavailable
+623,unavailable,350029,A,0,3.5,A,unavailable,unavailable
+624,unavailable,54636,A,0,3.5,A,unavailable,unavailable
+625,D50,36963,3,0,3.0,unavailable,50.0,D
+626,unavailable,219533,1,0,1.0,unavailable,unavailable,unavailable
+627,D9,13502,5,1,5.0,unavailable,9.0,D
+628,unavailable,349224,2,0,2.0,unavailable,unavailable,unavailable
+629,unavailable,334912,5,0,5.0,unavailable,unavailable,unavailable
+630,A23,27042,6,1,6.0,unavailable,23.0,A
+631,unavailable,347743,4,0,4.0,unavailable,unavailable,unavailable
+632,B50,13214,5,1,5.0,unavailable,50.0,B
+633,unavailable,112052,6,0,6.0,unavailable,unavailable,unavailable
+634,unavailable,347088,6,0,6.0,unavailable,unavailable,unavailable
+635,unavailable,237668,A,1,3.5,A,unavailable,unavailable
+636,unavailable,STON/O 2. 3101292,A,0,3.5,A,unavailable,unavailable
+637,unavailable,C.A. 31921,4,0,4.0,unavailable,unavailable,unavailable
+638,unavailable,3101295,6,0,6.0,unavailable,unavailable,unavailable
+639,unavailable,376564,6,0,6.0,unavailable,unavailable,unavailable
+640,unavailable,350050,5,0,5.0,unavailable,unavailable,unavailable
+641,B35,PC 17477,2,1,2.0,unavailable,35.0,B
+642,unavailable,347088,A,0,3.5,A,unavailable,unavailable
+643,unavailable,1601,A,1,3.5,A,unavailable,unavailable
+644,unavailable,2666,3,1,3.0,unavailable,unavailable,unavailable
+645,D33,PC 17572,2,1,2.0,unavailable,33.0,D
+646,unavailable,349231,3,0,3.0,unavailable,unavailable,unavailable
+647,A26,13213,A,1,3.5,A,26.0,A
+648,unavailable,S.O./P.P. 751,2,0,2.0,unavailable,unavailable,unavailable
+649,unavailable,CA. 2314,5,1,5.0,unavailable,unavailable,unavailable
+650,unavailable,349221,5,0,5.0,unavailable,unavailable,unavailable
+651,unavailable,231919,5,1,5.0,unavailable,unavailable,unavailable
+652,unavailable,8475,1,0,1.0,unavailable,unavailable,unavailable
+653,unavailable,330919,1,1,1.0,unavailable,unavailable,unavailable
+654,unavailable,365226,4,0,4.0,unavailable,unavailable,unavailable
+655,unavailable,S.O.C. 14879,5,0,5.0,unavailable,unavailable,unavailable
+656,unavailable,349223,2,0,2.0,unavailable,unavailable,unavailable
+657,unavailable,364849,1,0,1.0,unavailable,unavailable,unavailable
+658,unavailable,29751,1,0,1.0,unavailable,unavailable,unavailable
+659,D48,35273,6,0,6.0,unavailable,48.0,D
+660,unavailable,PC 17611,4,1,4.0,unavailable,unavailable,unavailable
+661,unavailable,2623,1,0,1.0,unavailable,unavailable,unavailable
+662,E58,5727,A,0,3.5,A,58.0,E
+663,unavailable,349210,A,0,3.5,A,unavailable,unavailable
+664,unavailable,STON/O 2. 3101285,4,1,4.0,unavailable,unavailable,unavailable
+665,unavailable,S.O.C. 14879,5,0,5.0,unavailable,unavailable,unavailable
+666,unavailable,234686,2,0,2.0,unavailable,unavailable,unavailable
+667,unavailable,312993,2,0,2.0,unavailable,unavailable,unavailable
+668,unavailable,A/5 3536,2,0,2.0,unavailable,unavailable,unavailable
+669,C126,19996,4,1,4.0,unavailable,126.0,C
+670,unavailable,29750,2,1,2.0,unavailable,unavailable,unavailable
+671,B71,F.C. 12750,5,0,5.0,unavailable,71.0,B
+672,unavailable,C.A. 24580,3,0,3.0,unavailable,unavailable,unavailable
+673,unavailable,244270,3,1,3.0,unavailable,unavailable,unavailable
+674,unavailable,239856,5,0,5.0,unavailable,unavailable,unavailable
+675,unavailable,349912,6,0,6.0,unavailable,unavailable,unavailable
+676,unavailable,342826,3,0,3.0,unavailable,unavailable,unavailable
+677,unavailable,4138,3,1,3.0,unavailable,unavailable,unavailable
+678,unavailable,CA 2144,2,0,2.0,unavailable,unavailable,unavailable
+679,B51 B53 B55,PC 17755,5,1,5.0,unavailable,51.0,B
+680,unavailable,330935,1,0,1.0,unavailable,unavailable,unavailable
+681,D49,PC 17572,1,1,1.0,unavailable,49.0,D
+682,unavailable,6563,4,0,4.0,unavailable,unavailable,unavailable
+683,unavailable,CA 2144,1,0,1.0,unavailable,unavailable,unavailable
+684,unavailable,29750,5,0,5.0,unavailable,unavailable,unavailable
+685,unavailable,SC/Paris 2123,5,0,5.0,unavailable,unavailable,unavailable
+686,unavailable,3101295,4,0,4.0,unavailable,unavailable,unavailable
+687,unavailable,349228,1,0,1.0,unavailable,unavailable,unavailable
+688,unavailable,350036,A,0,3.5,A,unavailable,unavailable
+689,B5,24160,6,1,6.0,unavailable,5.0,B
+690,B20,17474,A,1,3.5,A,20.0,B
+691,unavailable,349256,3,1,3.0,unavailable,unavailable,unavailable
+692,unavailable,1601,4,1,4.0,unavailable,unavailable,unavailable
+693,unavailable,2672,4,0,4.0,unavailable,unavailable,unavailable
+694,unavailable,113800,1,0,1.0,unavailable,unavailable,unavailable
+695,unavailable,248731,A,0,3.5,A,unavailable,unavailable
+696,unavailable,363592,A,0,3.5,A,unavailable,unavailable
+697,unavailable,35852,1,1,1.0,unavailable,unavailable,unavailable
+698,C68,17421,A,0,3.5,A,68.0,C
+699,F G63,348121,A,0,3.5,A,63.0,F
+700,C62 C64,PC 17757,4,1,4.0,unavailable,62.0,C
+701,E24,PC 17475,5,1,5.0,unavailable,24.0,E
+702,unavailable,2691,5,0,5.0,unavailable,unavailable,unavailable
+703,unavailable,36864,A,0,3.5,A,unavailable,unavailable
+704,unavailable,350025,5,0,5.0,unavailable,unavailable,unavailable
+705,unavailable,250655,6,0,6.0,unavailable,unavailable,unavailable
+706,unavailable,223596,3,1,3.0,unavailable,unavailable,unavailable
+707,E24,PC 17476,5,1,5.0,unavailable,24.0,E
+708,unavailable,113781,4,1,4.0,unavailable,unavailable,unavailable
+709,unavailable,2661,3,1,3.0,unavailable,unavailable,unavailable
+710,C90,PC 17482,5,1,5.0,unavailable,90.0,C
+711,C124,113028,1,0,1.0,unavailable,124.0,C
+712,C126,19996,A,1,3.5,A,126.0,C
+713,unavailable,7545,6,0,6.0,unavailable,unavailable,unavailable
+714,unavailable,250647,1,0,1.0,unavailable,unavailable,unavailable
+715,F G73,348124,6,0,6.0,unavailable,73.0,F
+716,C45,PC 17757,4,1,4.0,unavailable,45.0,C
+717,E101,34218,A,1,3.5,A,101.0,E
+718,unavailable,36568,1,0,1.0,unavailable,unavailable,unavailable
+719,unavailable,347062,4,0,4.0,unavailable,unavailable,unavailable
+720,unavailable,248727,3,1,3.0,unavailable,unavailable,unavailable
+721,unavailable,350048,A,0,3.5,A,unavailable,unavailable
+722,unavailable,12233,2,0,2.0,unavailable,unavailable,unavailable
+723,unavailable,250643,1,0,1.0,unavailable,unavailable,unavailable
+724,E8,113806,2,1,2.0,unavailable,8.0,E
+725,unavailable,315094,1,0,1.0,unavailable,unavailable,unavailable
+726,unavailable,31027,A,1,3.5,A,unavailable,unavailable
+727,unavailable,36866,A,1,3.5,A,unavailable,unavailable
+728,unavailable,236853,5,0,5.0,unavailable,unavailable,unavailable
+729,unavailable,STON/O2. 3101271,6,0,6.0,unavailable,unavailable,unavailable
+730,B5,24160,4,1,4.0,unavailable,5.0,B
+731,unavailable,2699,4,0,4.0,unavailable,unavailable,unavailable
+732,unavailable,239855,2,0,2.0,unavailable,unavailable,unavailable
+733,unavailable,28425,2,0,2.0,unavailable,unavailable,unavailable
+734,unavailable,233639,5,0,5.0,unavailable,unavailable,unavailable
+735,unavailable,54636,6,0,6.0,unavailable,unavailable,unavailable
+736,unavailable,W./C. 6608,3,0,3.0,unavailable,unavailable,unavailable
+737,B101,PC 17755,5,1,5.0,unavailable,101.0,B
+738,unavailable,349201,1,0,1.0,unavailable,unavailable,unavailable
+739,unavailable,349218,5,0,5.0,unavailable,unavailable,unavailable
+740,D45,16988,5,1,5.0,unavailable,45.0,D
+741,C46,19877,5,0,5.0,unavailable,46.0,C
+742,B57 B59 B63 B66,PC 17608,1,1,1.0,unavailable,57.0,B
+743,unavailable,376566,6,0,6.0,unavailable,unavailable,unavailable
+744,unavailable,STON/O 2. 3101288,5,1,5.0,unavailable,unavailable,unavailable
+745,B22,WE/P 5735,4,0,4.0,unavailable,22.0,B
+746,unavailable,C.A. 2673,1,0,1.0,unavailable,unavailable,unavailable
+747,unavailable,250648,5,1,5.0,unavailable,unavailable,unavailable
+748,D30,113773,5,0,5.0,unavailable,30.0,D
+749,unavailable,335097,1,0,1.0,unavailable,unavailable,unavailable
+750,unavailable,29103,4,1,4.0,unavailable,unavailable,unavailable
+751,E121,392096,5,1,5.0,unavailable,121.0,E
+752,unavailable,345780,3,0,3.0,unavailable,unavailable,unavailable
+753,unavailable,349204,1,0,1.0,unavailable,unavailable,unavailable
+754,unavailable,220845,A,1,3.5,A,unavailable,unavailable
+755,unavailable,250649,5,1,5.0,unavailable,unavailable,unavailable
+756,unavailable,350042,2,0,2.0,unavailable,unavailable,unavailable
+757,unavailable,29108,5,0,5.0,unavailable,unavailable,unavailable
+758,unavailable,363294,A,0,3.5,A,unavailable,unavailable
+759,B77,110152,A,1,3.5,A,77.0,B
+760,unavailable,358585,A,0,3.5,A,unavailable,unavailable
+761,unavailable,SOTON/O2 3101272,6,0,6.0,unavailable,unavailable,unavailable
+762,unavailable,2663,3,1,3.0,unavailable,unavailable,unavailable
+763,B96 B98,113760,2,1,2.0,unavailable,96.0,B
+764,unavailable,347074,4,0,4.0,unavailable,unavailable,unavailable
+765,D11,13502,1,1,1.0,unavailable,11.0,D
+766,unavailable,112379,2,0,2.0,unavailable,unavailable,unavailable
+767,unavailable,364850,A,0,3.5,A,unavailable,unavailable
+768,unavailable,371110,2,0,2.0,unavailable,unavailable,unavailable
+769,unavailable,8471,4,0,4.0,unavailable,unavailable,unavailable
+770,unavailable,345781,5,0,5.0,unavailable,unavailable,unavailable
+771,unavailable,350047,A,0,3.5,A,unavailable,unavailable
+772,E77,S.O./P.P. 3,4,0,4.0,unavailable,77.0,E
+773,unavailable,2674,6,0,6.0,unavailable,unavailable,unavailable
+774,unavailable,29105,2,1,2.0,unavailable,unavailable,unavailable
+775,unavailable,347078,4,0,4.0,unavailable,unavailable,unavailable
+776,F38,383121,1,0,1.0,unavailable,38.0,F
+777,unavailable,364516,3,1,3.0,unavailable,unavailable,unavailable
+778,unavailable,36865,4,0,4.0,unavailable,unavailable,unavailable
+779,B3,24160,A,1,3.5,A,3.0,B
+780,unavailable,2687,4,1,4.0,unavailable,unavailable,unavailable
+781,B20,17474,1,1,1.0,unavailable,20.0,B
+782,D6,113501,1,0,1.0,unavailable,6.0,D
+783,unavailable,W./C. 6607,4,0,4.0,unavailable,unavailable,unavailable
+784,unavailable,SOTON/O.Q. 3101312,1,0,1.0,unavailable,unavailable,unavailable
+785,unavailable,374887,1,0,1.0,unavailable,unavailable,unavailable
+786,unavailable,3101265,5,1,5.0,unavailable,unavailable,unavailable
+787,unavailable,382652,2,0,2.0,unavailable,unavailable,unavailable
+788,unavailable,C.A. 2315,5,1,5.0,unavailable,unavailable,unavailable
+789,B82 B84,PC 17593,5,0,5.0,unavailable,82.0,B
+790,unavailable,12460,A,0,3.5,A,unavailable,unavailable
+791,unavailable,239865,4,0,4.0,unavailable,unavailable,unavailable
+792,unavailable,CA. 2343,5,0,5.0,unavailable,unavailable,unavailable
+793,unavailable,PC 17600,2,0,2.0,unavailable,unavailable,unavailable
+794,unavailable,349203,5,0,5.0,unavailable,unavailable,unavailable
+795,unavailable,28213,6,0,6.0,unavailable,unavailable,unavailable
+796,D17,17465,4,1,4.0,unavailable,17.0,D
+797,unavailable,349244,3,1,3.0,unavailable,unavailable,unavailable
+798,unavailable,2685,5,0,5.0,unavailable,unavailable,unavailable
+799,unavailable,345773,3,0,3.0,unavailable,unavailable,unavailable
+800,unavailable,250647,6,0,6.0,unavailable,unavailable,unavailable
+801,unavailable,C.A. 31921,1,1,1.0,unavailable,unavailable,unavailable
+802,B96 B98,113760,6,1,6.0,unavailable,96.0,B
+803,unavailable,2625,4,1,4.0,unavailable,unavailable,unavailable
+804,unavailable,347089,2,1,2.0,unavailable,unavailable,unavailable
+805,unavailable,347063,1,0,1.0,unavailable,unavailable,unavailable
+806,A36,112050,1,0,1.0,unavailable,36.0,A
+807,unavailable,347087,A,0,3.5,A,unavailable,unavailable
+808,unavailable,248723,6,0,6.0,unavailable,unavailable,unavailable
+809,E8,113806,5,1,5.0,unavailable,8.0,E
+810,unavailable,3474,5,0,5.0,unavailable,unavailable,unavailable
+811,unavailable,A/4 48871,A,0,3.5,A,unavailable,unavailable
+812,unavailable,28206,1,0,1.0,unavailable,unavailable,unavailable
+813,unavailable,347082,A,0,3.5,A,unavailable,unavailable
+814,unavailable,364499,5,0,5.0,unavailable,unavailable,unavailable
+815,B102,112058,4,0,4.0,unavailable,102.0,B
+816,unavailable,STON/O2. 3101290,3,0,3.0,unavailable,unavailable,unavailable
+817,unavailable,S.C./PARIS 2079,6,0,6.0,unavailable,unavailable,unavailable
+818,unavailable,C 7075,1,0,1.0,unavailable,unavailable,unavailable
+819,unavailable,347088,A,0,3.5,A,unavailable,unavailable
+820,B69,12749,6,1,6.0,unavailable,69.0,B
+821,unavailable,315098,2,1,2.0,unavailable,unavailable,unavailable
+822,unavailable,19972,3,0,3.0,unavailable,unavailable,unavailable
+823,E121,392096,4,1,4.0,unavailable,121.0,E
+824,unavailable,3101295,2,0,2.0,unavailable,unavailable,unavailable
+825,unavailable,368323,2,0,2.0,unavailable,unavailable,unavailable
+826,unavailable,1601,6,0,6.0,unavailable,unavailable,unavailable
+827,unavailable,S.C./PARIS 2079,5,1,5.0,unavailable,unavailable,unavailable
+828,unavailable,367228,3,1,3.0,unavailable,unavailable,unavailable
+829,B28,113572,5,1,5.0,unavailable,28.0,B
+830,unavailable,2659,A,1,3.5,A,unavailable,unavailable
+831,unavailable,29106,2,1,2.0,unavailable,unavailable,unavailable
+832,unavailable,2671,2,0,2.0,unavailable,unavailable,unavailable
+833,unavailable,347468,1,0,1.0,unavailable,unavailable,unavailable
+834,unavailable,2223,6,0,6.0,unavailable,unavailable,unavailable
+835,E49,PC 17756,6,1,6.0,unavailable,49.0,E
+836,unavailable,315097,1,0,1.0,unavailable,unavailable,unavailable
+837,unavailable,392092,3,0,3.0,unavailable,unavailable,unavailable
+838,unavailable,1601,1,1,1.0,unavailable,unavailable,unavailable
+839,C47,11774,1,1,1.0,unavailable,47.0,C
+840,unavailable,SOTON/O2 3101287,3,0,3.0,unavailable,unavailable,unavailable
+841,unavailable,S.O./P.P. 3,3,0,3.0,unavailable,unavailable,unavailable
+842,unavailable,113798,1,1,1.0,unavailable,unavailable,unavailable
+843,unavailable,2683,5,0,5.0,unavailable,unavailable,unavailable
+844,unavailable,315090,4,0,4.0,unavailable,unavailable,unavailable
+845,unavailable,C.A. 5547,2,0,2.0,unavailable,unavailable,unavailable
+846,unavailable,CA. 2343,3,0,3.0,unavailable,unavailable,unavailable
+847,unavailable,349213,2,0,2.0,unavailable,unavailable,unavailable
+848,unavailable,248727,6,0,6.0,unavailable,unavailable,unavailable
+849,C92,17453,A,1,3.5,A,92.0,C
+850,unavailable,347082,3,0,3.0,unavailable,unavailable,unavailable
+851,unavailable,347060,6,0,6.0,unavailable,unavailable,unavailable
+852,unavailable,2678,3,0,3.0,unavailable,unavailable,unavailable
+853,D28,PC 17592,1,1,1.0,unavailable,28.0,D
+854,unavailable,244252,2,0,2.0,unavailable,unavailable,unavailable
+855,unavailable,392091,2,1,2.0,unavailable,unavailable,unavailable
+856,unavailable,36928,6,1,6.0,unavailable,unavailable,unavailable
+857,E17,113055,A,1,3.5,A,17.0,E
+858,unavailable,2666,6,1,6.0,unavailable,unavailable,unavailable
+859,unavailable,2629,2,0,2.0,unavailable,unavailable,unavailable
+860,unavailable,350026,5,0,5.0,unavailable,unavailable,unavailable
+861,unavailable,28134,2,0,2.0,unavailable,unavailable,unavailable
+862,D17,17466,4,1,4.0,unavailable,17.0,D
+863,unavailable,CA. 2343,3,0,3.0,unavailable,unavailable,unavailable
+864,unavailable,233866,4,0,4.0,unavailable,unavailable,unavailable
+865,unavailable,236852,5,1,5.0,unavailable,unavailable,unavailable
+866,unavailable,SC/PARIS 2149,2,1,2.0,unavailable,unavailable,unavailable
+867,A24,PC 17590,A,0,3.5,A,24.0,A
+868,unavailable,345777,A,0,3.5,A,unavailable,unavailable
+869,unavailable,347742,4,1,4.0,unavailable,unavailable,unavailable
+870,unavailable,349248,4,0,4.0,unavailable,unavailable,unavailable
+871,D35,11751,1,1,1.0,unavailable,35.0,D
+872,B51 B53 B55,695,6,0,6.0,unavailable,51.0,B
+873,unavailable,345765,6,0,6.0,unavailable,unavailable,unavailable
+874,unavailable,P/PP 3381,4,1,4.0,unavailable,unavailable,unavailable
+875,unavailable,2667,A,1,3.5,A,unavailable,unavailable
+876,unavailable,7534,A,0,3.5,A,unavailable,unavailable
+877,unavailable,349212,5,0,5.0,unavailable,unavailable,unavailable
+878,unavailable,349217,6,0,6.0,unavailable,unavailable,unavailable
+879,C50,11767,A,1,3.5,A,50.0,C
+880,unavailable,230433,4,1,4.0,unavailable,unavailable,unavailable
+881,unavailable,349257,A,0,3.5,A,unavailable,unavailable
+882,unavailable,7552,5,0,5.0,unavailable,unavailable,unavailable
+883,unavailable,C.A./SOTON 34068,1,0,1.0,unavailable,unavailable,unavailable
+884,unavailable,SOTON/OQ 392076,5,0,5.0,unavailable,unavailable,unavailable
+885,unavailable,382652,5,0,5.0,unavailable,unavailable,unavailable
+886,unavailable,211536,3,0,3.0,unavailable,unavailable,unavailable
+887,B42,112053,3,1,3.0,unavailable,42.0,B
+888,unavailable,W./C. 6607,1,0,1.0,unavailable,unavailable,unavailable
+889,C148,111369,2,1,2.0,unavailable,148.0,C
+890,unavailable,370376,3,0,3.0,unavailable,unavailable,unavailable
