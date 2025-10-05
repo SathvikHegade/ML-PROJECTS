@@ -22,7 +22,7 @@ Data Wrangling is the process of **preparing raw data** for analysis or modeling
 
 **Tools:** `pandas`, `numpy`, `scikit-learn`
 
-> **💡 For further info, see the above files which have README of each program and file.**
+> **💡If you want detailed explanations and step-by-step code, open the README inside the folder above.**
 
 ---
 
@@ -59,7 +59,7 @@ Supervised learning trains models on **labeled data** to predict outcomes.
 
 **Libraries:** `sklearn.linear_model`, `sklearn.tree`, `sklearn.ensemble`
 
-> **💡 For further info, see the above files which have README of each program and file.**
+> **💡 If you want detailed explanations and step-by-step code, open the README inside the folder above.**
 
 ---
 
@@ -86,7 +86,7 @@ Unsupervised learning finds patterns in **unlabeled data**.
 
 **Libraries:** `sklearn.cluster`
 
-> **💡 For further info, see the above files which have README of each program and file.**
+> **💡 If you want detailed explanations and step-by-step code, open the README inside the folder above.**
 
 ---
 
